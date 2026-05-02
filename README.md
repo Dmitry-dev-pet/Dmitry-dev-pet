@@ -12,7 +12,8 @@ I build practical AI-agent workflows and local-first tools: macOS utilities, Tel
 ## Public Work
 
 - [native-audio-translator](https://github.com/Dmitry-dev-pet/native-audio-translator) - native macOS live subtitle prototype using ScreenCaptureKit, Apple Speech, Vision OCR, Translation, and SwiftUI/AppKit overlay rendering.
-- [meta2](https://github.com/Dmitry-dev-pet/meta2) - FastAPI + Google Sheets data importer experiment.
+- [dodo-table-events](https://github.com/Dmitry-dev-pet/dodo-table-events) - computer vision prototype for table occupancy events using OpenCV, YOLO, ROI zones, and FSM-based reports.
+- [hotwills](https://github.com/Dmitry-dev-pet/hotwills) - GitHub Pages and Supabase collaborative catalog with editor flows, stats, and cloud sync.
 - [mermaid-compiller](https://github.com/Dmitry-dev-pet/mermaid-compiller) - diagram tooling around Mermaid generation and rendering.
 
 ## Private Case Studies Available On Request
