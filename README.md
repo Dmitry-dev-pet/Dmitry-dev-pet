@@ -29,7 +29,6 @@ I build practical AI-agent workflows and local-first tools: macOS utilities, Tel
 - Codex/Gemini account and quota switcher with macOS tray UI, session handling, and multi-provider workflows.
 - SQL-first Telegram/LLM knowledge system with Control Center, LLM pipeline stages, taxonomy, and runtime answer routing.
 - Telegram Smart Inbox with AI assistant, local database, LLM background analysis, and quota-aware UX.
-- Article translation/OCR pipeline for Habr-to-Markdown localization and image text extraction.
 
 ## Stack
 
